@@ -16,10 +16,7 @@
 
 <!-- ===== PROFILE BADGES ===== -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=SushilTarange&label=Profile+Views&color=7c3aed&style=flat-square&labelColor=0d0d1a" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/SushilTarange?label=Followers&style=flat-square&color=7c3aed&labelColor=0d0d1a&logoColor=white" />
-  &nbsp;
+ 
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work%20✅-22c55e?style=flat-square&labelColor=0d0d1a" />
   &nbsp;
   <img src="https://img.shields.io/badge/Location-India%20🇮🇳-ff6b6b?style=flat-square&labelColor=0d0d1a" />
