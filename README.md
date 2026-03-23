@@ -4,79 +4,71 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=2&section=header"/>
+<!-- ===== HEADER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Tarange%20Sushil&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Software%20Developer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Cloud%20Enthusiast&descAlignY=63&descAlign=50&descSize=20&descColor=d0c4ff" />
 
-<br/>
-
-<!-- ── NAME ── -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=52&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Tarange+Sushil" alt="Tarange Sushil" />
-</h1>
-
-<!-- ── ROLE LINE ── -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3500&pause=800&color=64748B&center=true&vCenter=true&width=700&height=30&lines=Software+Developer+%7C+Full+Stack+%7C+Cloud+Enthusiast;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js+%7C+AWS;Building+clean+systems+and+scalable+products." alt="role" />
+<!-- ===== TYPING ANIMATION ===== -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=750&height=52&lines=👋+Hey%2C+I'm+Tarange+Sushil!;Java+%7C+Spring+Boot+%7C+Microservices;React+%7C+Node.js+%7C+REST+APIs;AWS+%7C+Docker+%7C+Kubernetes;Turning+Ideas+into+Real+Products+🚀;Open+to+Work+%7C+Let's+Build+Together!" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
-<!-- ── STATUS PILLS ── -->
-<img src="https://img.shields.io/badge/Open_to_Work-Available-22c55e?style=flat-square&labelColor=0f172a&color=22c55e" />
-&nbsp;
-<img src="https://img.shields.io/badge/Location-India_🇮🇳-64748b?style=flat-square&labelColor=0f172a" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=SushilTarange&label=Profile+Views&color=64748b&style=flat-square&labelColor=0f172a" />
-&nbsp;
-<a href="https://sushiltarange.dypcoeiincubationcentre.com">
-  <img src="https://img.shields.io/badge/Portfolio-Live_↗-f8fafc?style=flat-square&labelColor=0f172a&color=f8fafc" />
-</a>
+<!-- ===== PROFILE BADGES ===== -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=SushilTarange&label=Profile+Views&color=7c3aed&style=flat-square&labelColor=0d0d1a" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/SushilTarange?label=Followers&style=flat-square&color=7c3aed&labelColor=0d0d1a&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work%20✅-22c55e?style=flat-square&labelColor=0d0d1a" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-India%20🇮🇳-ff6b6b?style=flat-square&labelColor=0d0d1a" />
+  &nbsp;
+  <a href="https://sushiltarange.dypcoeiincubationcentre.com">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20🌐-a78bfa?style=flat-square&labelColor=0d0d1a" />
+  </a>
+</p>
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 ## `whoami`
 
-```java
-/**
- * Tarange Sushil
- * Aspiring Software Developer — India 🇮🇳
- */
-public class TarangeSushil {
+```typescript
+const TarangeSushil = {
+  name         : "Tarange Sushil",
+  title        : "Aspiring Software Developer",
+  location     : "India 🇮🇳",
+  portfolio    : "https://sushiltarange.dypcoeiincubationcentre.com",
 
-    static final String   NAME       = "Tarange Sushil";
-    static final String   ROLE       = "Software Developer · Full Stack · Cloud";
-    static final String   PORTFOLIO  = "sushiltarange.dypcoeiincubationcentre.com";
+  languages    : ["Java", "JavaScript", "Python", "C", "PHP"],
+  frontend     : ["React", "HTML5", "CSS3", "Bootstrap", "Figma"],
+  backend      : ["Spring Boot", "Node.js", "Express.js", "Django", ".NET"],
+  databases    : ["MySQL", "PostgreSQL", "MongoDB", "Oracle", "MSSQL"],
+  cloud        : ["AWS", "GCP", "Docker", "Kubernetes", "Linux"],
 
-    static final String[] LANGUAGES  = { "Java", "JavaScript", "Python", "C", "PHP" };
-    static final String[] FRONTEND   = { "React", "HTML5", "CSS3", "Bootstrap", "Figma" };
-    static final String[] BACKEND    = { "Spring Boot", "Node.js", "Express", "Django", ".NET" };
-    static final String[] DATABASES  = { "MySQL", "PostgreSQL", "MongoDB", "Oracle", "MSSQL" };
-    static final String[] CLOUD      = { "AWS", "GCP", "Docker", "Kubernetes", "Linux" };
+  currentFocus : "Production-grade full-stack web applications",
+  learning     : ["System Design", "Microservices Architecture", "DevOps"],
+  interests    : ["Open Source", "Backend Engineering", "Cloud Infrastructure"],
 
-    static final String   FOCUS      = "Production-grade full-stack applications";
-    static final String[] LEARNING   = { "System Design", "Microservices", "DevOps" };
-    static final String[] OPEN_FOR   = { "Full-time Roles", "Internships", "Open Source" };
-    static final boolean  AVAILABLE  = true;
-}
+  availableFor : ["Full-time Roles 💼", "Internships 🎓", "Open Source 🌍"],
+  funFact      : "I debug with console.log and I'm proud of it 😄",
+
+  motto        : "First, solve the problem. Then, write the code.",
+};
 ```
-
-<br/>
 
 ---
 
-<br/>
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 <table>
 <thead>
 <tr>
-<th align="center">Languages</th>
-<th align="center">Frontend</th>
-<th align="center">Backend</th>
+<th align="center">💻 Languages</th>
+<th align="center">🌐 Frontend</th>
+<th align="center">⚙️ Backend</th>
 </tr>
 </thead>
 <tbody>
@@ -109,9 +101,9 @@ public class TarangeSushil {
 <table>
 <thead>
 <tr>
-<th align="center">Databases</th>
-<th align="center">Cloud & DevOps</th>
-<th align="center">Tools</th>
+<th align="center">🗄️ Databases</th>
+<th align="center">☁️ Cloud & DevOps</th>
+<th align="center">🧰 Tools</th>
 </tr>
 </thead>
 <tbody>
@@ -141,57 +133,40 @@ public class TarangeSushil {
 </tbody>
 </table>
 
-<br/>
-
 ---
 
-<br/>
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=SushilTarange&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0f172a&title_color=f8fafc&icon_color=38bdf8&text_color=94a3b8&ring_color=38bdf8" />
-&nbsp;
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilTarange&layout=compact&langs_count=8&hide_border=true&bg_color=0f172a&title_color=f8fafc&text_color=94a3b8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SushilTarange&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilTarange&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c9d1d9" />
 
-<br/><br/>
+<br/>
 
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=SushilTarange&hide_border=true&background=0f172a&stroke=1e293b&ring=38bdf8&fire=f97316&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=38bdf8&sideLabels=64748b&dates=475569" />
+<img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=SushilTarange&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=a78bfa&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" />
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-## Trophies
+## 🏆 Trophies
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=SushilTarange&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=SushilTarange&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
-
-<br/>
 
 ---
 
-<br/>
-
-## Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SushilTarange&theme=react-dark&hide_border=true&bg_color=0f172a&color=38bdf8&line=38bdf8&point=f8fafc&area=true&area_color=38bdf8&radius=4" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SushilTarange&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ff6b6b&area=true&area_color=7c3aed&radius=6&custom_title=Tarange+Sushil's+Contribution+Graph" />
 </div>
-
-<br/>
 
 ---
 
-<br/>
-
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -235,39 +210,34 @@ jobs:
 
 </details>
 
-<br/>
-
 ---
 
-<br/>
-
-## Connect
+## 🤝 Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sushiltarange">
-  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8&label=Tarange+Sushil" />
+  <img src="https://img.shields.io/badge/LinkedIn-Tarange%20Sushil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1628" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.instagram.com/sushil_tarange">
-  <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=f472b6&label=@sushil_tarange" />
+  <img src="https://img.shields.io/badge/Instagram-@sushil__tarange-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a0810" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://codepen.io/Sushil-Tarange">
-  <img src="https://img.shields.io/badge/CodePen-0f172a?style=for-the-badge&logo=codepen&logoColor=e2e8f0&label=Sushil-Tarange" />
+  <img src="https://img.shields.io/badge/CodePen-Sushil--Tarange-ffffff?style=for-the-badge&logo=codepen&logoColor=black&labelColor=e0e0e0" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://sushiltarange.dypcoeiincubationcentre.com">
-  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=firefoxbrowser&logoColor=38bdf8&label=Visit+Now" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now%20🌐-7c3aed?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=1a0a2e" />
 </a>
 
 <br/><br/>
 
-<!-- ── FOOTER ── -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=99999&color=334155&center=true&vCenter=true&width=600&height=24&lines=%22First+solve+the+problem.+Then+write+the+code.%22+—+John+Johnson" alt="quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:0a0a0a&height=2&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" />
 
 </div>
