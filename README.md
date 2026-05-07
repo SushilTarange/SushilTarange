@@ -8,9 +8,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Tarange%20Sushil&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Software%20Developer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Cloud%20Enthusiast&descAlignY=63&descAlign=50&descSize=20&descColor=d0c4ff" />
 
 <!-- ===== TYPING ANIMATION ===== -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=750&height=52&lines=👋+Hey%2C+I'm+Tarange+Sushil!;Java+%7C+Spring+Boot+%7C+Microservices;React+%7C+Node.js+%7C+REST+APIs;AWS+%7C+Docker+%7C+Kubernetes;Turning+Ideas+into+Real+Products+🚀;Open+to+Work+%7C+Let's+Build+Together!" alt="Typing SVG" />
-</a>
+
 
 <br/><br/>
 
