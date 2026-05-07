@@ -229,7 +229,7 @@ jobs:
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+
 
 <br/><br/>
 
