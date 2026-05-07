@@ -28,7 +28,7 @@
 
 ---
 
-## `whoami`
+## `WHO AM I`
 
 ```typescript
 const TarangeSushil = {
